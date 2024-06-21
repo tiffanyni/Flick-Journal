@@ -293,7 +293,7 @@ body {
 }
 
 .btn-add {
-  background-color: var(--color-primary);
+  background-color: #93a8ac;
   color: var(--color-text);
   border: none;
   border-radius: 10rem;
@@ -305,7 +305,7 @@ body {
 }
 
 .btn-add:hover {
-  background-color: var(--color-primary-light);
+  background-color: rgb(121, 120, 120);
 }
 
 .seconds {
